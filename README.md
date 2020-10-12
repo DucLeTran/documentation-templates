@@ -7,7 +7,7 @@ This project contains the templates of documentations commonly used in Software 
 This contains the sections:
 - [Changelog](CHANGELOG.MD): A log or record of notable changes made during a project. This relates to version management of libraries, apps,...
 - [Design doc](DESIGN_DOC.md): An overview description of how you tackle a problem
-- [Issue description](ISSUE_DESCRIPTION.MD): An overview description of an issue that need to be tackled
+- [Issue description](issue_description/): An overview description of an issue that need to be tackled
 - [PR description](PR_DESCRIPTION.MD): An overview description of the solution made by a pull request.
 - [Library Description](README_LIB_FEATURE.md): An overview description of a library/module
 - [Project/Repository Description](README_NEW_PROJECT.md): An overview description of a repository in Github.
