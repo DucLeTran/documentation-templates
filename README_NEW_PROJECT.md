@@ -27,4 +27,10 @@ Detail description on how to use different features of the project. If this grow
 Please feel free to open an issue or PR to discuss more features/bug reports. Feel free to contact me at letrananhduc.developer@gmail.com.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) (Example)
+[MIT](https://choosealicense.com/licenses/mit/)
+
+[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)
+
+[Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/)
+
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
